@@ -68,7 +68,7 @@ $(document).ready(function() {
         //Carga la imagen en el mapa
         L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
-        attribution: '&copy; <a href="http://osm.org/copyright">MiUbicación</a>',}).addTo(map2);
+        attribution: '&copy; <a href="http://osm.org/copyright">UbicacionAntipodas</a>',}).addTo(map2);
 
         var marker = L.marker([lat, long]).addTo(map2);
         marker.bindPopup("Tu posición en Antípodas").openPopup();
