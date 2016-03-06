@@ -1,0 +1,22 @@
+body{
+	background-color: red;
+}
+
+h1{color: blue;
+}
+
+#map { height: 550px;
+       width: 1000px;
+}
+
+#antipodas { height: 550px;
+             width: 1000px;
+}
+
+h3, h2{ height: 50px;
+    color: blue;
+}
+
+p{ height: 50px;
+   color: blue;
+}
